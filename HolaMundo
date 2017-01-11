@@ -1,5 +1,13 @@
+/**
+* Muestra por pantalla la frase "Hola Mundo"
+*
+*@author Ana Rodriguez
+*
+**/
+
 public class HolaMundo {
   public static void main(String[] args){
     System.out.println("Hola Mundo");
+    System.out.println("Haciendo pruebas varias con Git");
     }
    } 
